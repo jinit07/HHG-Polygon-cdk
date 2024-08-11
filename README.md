@@ -1,3 +1,39 @@
+# imp data:
+Sequencer:0x931cAeC64617FC3fe9bDd942E3593EEc134656f5
+
+aggregator:0x3DA95A64CdD783C25A118Ea9417eEf55ec06a7F8
+
+admin access:0x61984609f38E14dDB0bfebb52c59364d5Ee381C0
+## zkevm addresses:
+  
+zkevm_l2_sequencer_address: "0x931cAeC64617FC3fe9bDd942E3593EEc134656f5"
+  zkevm_l2_sequencer_private_key: "0xa66a964d72b48e8e7452e7388791ef0c5a607b2c4d1271985e6469609348567c"
+
+  zkevm_l2_aggregator_address: "0x3DA95A64CdD783C25A118Ea9417eEf55ec06a7F8"
+  zkevm_l2_aggregator_private_key: "0x94f8b61fdcceed1c1ed2abb8745f9a336dbe5d53b7b47a3870932cfd3a69d3f8"
+
+  zkevm_l2_claimtxmanager_address: "0x73537bC84E059a1c9eC12dEA535645c86B9Fa5A3"
+  zkevm_l2_claimtxmanager_private_key: "0x810f8f9012a2ec40ff837c324a062ef11590f79700960a3e55e4fc6d9ff408c9"
+
+  zkevm_l2_timelock_address: "0x5b06837A43bdC3dD9F114558DAf4B26ed49842Ed"
+  zkevm_l2_timelock_private_key: "0x183c492d0ba156041a7f31a1b188958a7a22eebadca741a7fe64436092dc3181"
+
+  zkevm_l2_admin_address: "0x61984609f38E14dDB0bfebb52c59364d5Ee381C0"
+  zkevm_l2_admin_private_key: "0x0819228f44d4aa802f9636b8324381e16ad14471a476650be8acdeb264a333c5"
+
+  zkevm_l2_loadtest_address: "0x325BB230670D93F53f7ada4041b589B11339a1E2"
+  zkevm_l2_loadtest_private_key: "0x2230286aef741d5bb03e11f2666a9e6dbc33944659c3bd5f3e641f53884164bf"
+
+  zkevm_l2_agglayer_address: "0xd7b11584aBD02d9251ae9C5860691743D10E213d"
+  zkevm_l2_agglayer_private_key: "0xcbc4ef41af4a70bd52b9222f7f7304b909ec80b6f022364977f5eb2e5630eea9"
+
+  zkevm_l2_dac_address: "0x049F8c74592Bb59Efb4D195834e657832D63d7B7"
+  zkevm_l2_dac_private_key: "0xa09eb655285784bf121aec12bcc5a3085f1b2d2d8c75ba13e80c526182cc731d"
+
+  zkevm_l2_proofsigner_address: "0xe97481c4723f2325d4DfE322AFbECFcd848Fd1f2"
+  zkevm_l2_proofsigner_private_key: "0x4aa53a5b2e7230e9d6804ae2769e0221cc03b6eaf3675fead72d6ab907dbe3b5
+
+
 # Polygon CDK Kurtosis Package
 
 A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular Polygon CDK devnet.
@@ -134,33 +170,3 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
    <img width="1470" alt="Screenshot 2024-08-07 at 11 00 19 PM 1" src="https://github.com/user-attachments/assets/bf23a094-3a00-4d09-883a-d0ee1d74f18d">
 
 
-Sequencer:0x931cAeC64617FC3fe9bDd942E3593EEc134656f5
-aggregator:0x3DA95A64CdD783C25A118Ea9417eEf55ec06a7F8
-admin access:0x61984609f38E14dDB0bfebb52c59364d5Ee381C0
-  
-zkevm_l2_sequencer_address: "0x931cAeC64617FC3fe9bDd942E3593EEc134656f5"
-  zkevm_l2_sequencer_private_key: "0xa66a964d72b48e8e7452e7388791ef0c5a607b2c4d1271985e6469609348567c"
-
-  zkevm_l2_aggregator_address: "0x3DA95A64CdD783C25A118Ea9417eEf55ec06a7F8"
-  zkevm_l2_aggregator_private_key: "0x94f8b61fdcceed1c1ed2abb8745f9a336dbe5d53b7b47a3870932cfd3a69d3f8"
-
-  zkevm_l2_claimtxmanager_address: "0x73537bC84E059a1c9eC12dEA535645c86B9Fa5A3"
-  zkevm_l2_claimtxmanager_private_key: "0x810f8f9012a2ec40ff837c324a062ef11590f79700960a3e55e4fc6d9ff408c9"
-
-  zkevm_l2_timelock_address: "0x5b06837A43bdC3dD9F114558DAf4B26ed49842Ed"
-  zkevm_l2_timelock_private_key: "0x183c492d0ba156041a7f31a1b188958a7a22eebadca741a7fe64436092dc3181"
-
-  zkevm_l2_admin_address: "0x61984609f38E14dDB0bfebb52c59364d5Ee381C0"
-  zkevm_l2_admin_private_key: "0x0819228f44d4aa802f9636b8324381e16ad14471a476650be8acdeb264a333c5"
-
-  zkevm_l2_loadtest_address: "0x325BB230670D93F53f7ada4041b589B11339a1E2"
-  zkevm_l2_loadtest_private_key: "0x2230286aef741d5bb03e11f2666a9e6dbc33944659c3bd5f3e641f53884164bf"
-
-  zkevm_l2_agglayer_address: "0xd7b11584aBD02d9251ae9C5860691743D10E213d"
-  zkevm_l2_agglayer_private_key: "0xcbc4ef41af4a70bd52b9222f7f7304b909ec80b6f022364977f5eb2e5630eea9"
-
-  zkevm_l2_dac_address: "0x049F8c74592Bb59Efb4D195834e657832D63d7B7"
-  zkevm_l2_dac_private_key: "0xa09eb655285784bf121aec12bcc5a3085f1b2d2d8c75ba13e80c526182cc731d"
-
-  zkevm_l2_proofsigner_address: "0xe97481c4723f2325d4DfE322AFbECFcd848Fd1f2"
-  zkevm_l2_proofsigner_private_key: "0x4aa53a5b2e7230e9d6804ae2769e0221cc03b6eaf3675fead72d6ab907dbe3b5
